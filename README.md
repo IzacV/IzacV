@@ -1,5 +1,5 @@
 <p align="center"> Hi! I am Izac Mateus
-🎓 Systems Analysis and Development Student <br>
+🎓 System developer Student <br>
 </p>
 
 <p align="center">
