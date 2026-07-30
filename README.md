@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Systems Analysis and Development student passionate about technology.  
+I am a System developer student passionate about technology.  
 I enjoy building practical projects to apply what I learn and continuously improve my programming skills.
 
 
